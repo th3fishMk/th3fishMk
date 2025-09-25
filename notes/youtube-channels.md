@@ -20,6 +20,7 @@ Domain of science - <https://www.youtube.com/@domainofscience>
 
 Low level - <https://www.youtube.com/@LowLevelTV>  
 Sav - <https://www.youtube.com/@javidx9>  
+No boilerplate - <https://www.youtube.com/@NoBoilerplate>  
 
 ### Web development
 
