@@ -46,6 +46,13 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/228313569?v=4"  />
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=th3fishMk.th3fishMk&"  />
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/th3fishmk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -59,24 +66,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/228313569?v=4"  />
+<div align="center">  
 
-###
-
-<img src="https://raw.githubusercontent.com/th3fishMk/th3fishMk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=th3fishMk.th3fishMk&"  />
+[![roadmap.sh](https://roadmap.sh/card/tall/68dc0936dcae303877105408?variant=dark&roadmaps=%2Ccomputer-science)](https://roadmap.sh)
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/314ajuwcqfrrepj247m5khab4ujy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ajuwcqfrrepj247m5khab4ujy&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
