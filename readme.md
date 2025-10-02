@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Fish, and I'm a human, from Earth!</h2>
+<h1 align="center">Hi, my name is Fish, and I'm a human, from Earth!</h1>
 
 ###
 
@@ -10,36 +10,20 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
@@ -68,5 +52,27 @@
 
 <div align="center">  
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68dc0936dcae303877105408?variant=dark&roadmaps=%2Ccomputer-science)](https://roadmap.sh)
 </div>
+
+## A little bit about myself
+
+I got stuck in tutorial hell for a while, but now I'm trying to get out of it, I also got into distro hopping, but now I'm settled on Fedora.
+I love learning, reading, and watching videos about math, physics, programming, and other related stuff, I also have my personal, and small library of books, and occasionally I like to read research papers.
+
+I also like gaming, tho I havent played much lately. I am committed to learning more about programming, and math, and I want to get better at it, so some sacrifices have to be made.
+
+## Fun facts about me
+
+- I am a terrible designer, and I hate designing stuff, so I try to avoid it as much as possible.
+- I am learning User Interface, I suck at it, but I am trying to get better.
+- I am probably sleepy at the time you are reading this, because I dont have a proper sleep schedule.
+
+## Channels worth following
+
+Personal recommendation
+
+- [Numberphile](https://www.youtube.com/@numberphile) - Pure math, personal favorite
+- [3b1b](https://www.youtube.com/@3blue1brown) - Pure math
+- [Stand-up Maths](https://www.youtube.com/user/standupmaths) - Pure math
+- [Domain of science](https://www.youtube.com/@domainofscience) - Physic
+- [Low level](https://www.youtube.com/@LowLevelTV) - Low level stuff
