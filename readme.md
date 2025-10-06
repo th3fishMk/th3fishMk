@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=th3fishMk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3fishMk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3fishMk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,12 +60,6 @@ I got stuck in tutorial hell for a while, but now I'm trying to get out of it, I
 I love learning, reading, and watching videos about math, physics, programming, and other related stuff, I also have my personal, and small library of books, and occasionally I like to read research papers.
 
 I also like gaming, tho I havent played much lately. I am committed to learning more about programming, and math, and I want to get better at it, so some sacrifices have to be made.
-
-## Fun facts about me
-
-- I am a terrible designer, and I hate designing stuff, so I try to avoid it as much as possible.
-- I am learning User Interface, I suck at it, but I am trying to get better.
-- I am probably sleepy at the time you are reading this, because I dont have a proper sleep schedule.
 
 ## Channels worth following
 
