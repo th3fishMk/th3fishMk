@@ -1,6 +1,5 @@
 <h1 align="center">Hi, my name is Fish, and I'm a human, from Earth!</h1>
 
-### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=th3fishMk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -36,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3fishMk&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=th3fishMk&theme=dracula&hide_border=true&area=true" height="150" alt="activity graph"  />
 </div>
 
 <div align="center">
