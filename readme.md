@@ -1,13 +1,11 @@
 <h1 align="center">Hi, my name is Fish, and I'm a human, from Earth!</h1>
 
-###
+### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3fishMk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3fishMk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=th3fishMk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3fishMk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,6 +32,11 @@
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=th3fishMk.th3fishMk&"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th3fishMk&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=th3fishMk&theme=dracula&hide_border=true&area=true" height="150" alt="activity graph"  />
 </div>
 
 <div align="center">
