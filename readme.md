@@ -1,6 +1,5 @@
 <h1 align="center">Hi, my name is Fish, and I'm a human, from Earth!</h1>
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=th3fishMk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th3fishMk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -61,6 +60,14 @@ I got stuck in tutorial hell for a while, but now I'm trying to get out of it, I
 I love learning, reading, and watching videos about math, physics, programming, and other related stuff, I also have my personal, and small library of books, and occasionally I like to read research papers.
 
 I also like gaming, tho I havent played much lately. I am committed to learning more about programming, and math, and I want to get better at it, so some sacrifices have to be made.
+
+I am currently learning Rust, and I want to get better at it, I also want to learn more about low level programming. But I also want to learn more about web development, and I want to get better at it too. My goal is to become a desktop applications developer, and a web developer.
+
+## Fun facts about me
+
+- I hate emojis, and I rarely use them
+- I love dark mode, and I use it everywhere
+- I love ducks, parrot, and other birds
 
 ## Channels worth following
 
